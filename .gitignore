@@ -1,0 +1,26 @@
+**/android/**/gradle-wrapper.jar
+.gradle/
+**/android/captures/
+**/android/gradlew.bat
+**/android/gradlew
+**/android/local.properties \*_/android/key.properties
+*/assets/
+assets/
+_.jks
+
+.DS_Store
+.idea/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/ephemeral
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/**/\*.pbxuser
+**/ios/**/\*.perspectivev3
+**/ios/**/\*sync/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+\*\*/ios/Flutter/Generated.xcconfig
+
+/bin/cache/
